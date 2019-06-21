@@ -1,4 +1,5 @@
 # Realtime chat with Laravel
+
 - Laravel 5.7
 - Vue.js
 - Redis
