@@ -1,4 +1,4 @@
-# Realtime chat with Laravel
+# Realtime Chat with Laravel and Vue
 
 - Laravel 5.7
 - Vue.js
