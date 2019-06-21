@@ -1,6 +1,12 @@
-## Realtime chat with Laravel
+# Realtime chat with Laravel
+- Laravel 5.7
+- Vue.js
+- Redis
+- Predis
+- Laravel-echo
+- Laravel-echo-server
 
-# How To
+## How To
 
 1. clone the project
 2. configure the .env with the database variables
